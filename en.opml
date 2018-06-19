@@ -1,0 +1,18 @@
+<opml version="2.0">
+<head>
+<title>en.opml</title>
+<ownerName>Thejesh GN</ownerName>
+<ownerId>https://thejeshgn.com/</ownerId>
+</head>
+  <body>
+    <outline title="English" text="English" description="English" type="folder">
+      <outline title="Top India News- News18.com" text="Top India News- News18.com" description="Top India News- News18.com" type="rss" xmlUrl="https://www.news18.com/rss/india.xml" htmlUrl="https://www.news18.com/india/"/>
+      <outline title="Latest News India on Firstpost" text="Latest News India on Firstpost" description="Latest News India on Firstpost" type="rss" xmlUrl="https://www.firstpost.com/rss/india.xml" htmlUrl="https://www.firstpost.com/category/india"/>
+      <outline title="Times of India" text="Times of India" description="Times of India" type="rss" xmlUrl="https://timesofindia.indiatimes.com/rssfeedstopstories.cms" htmlUrl="https://timesofindia.indiatimes.com"/>
+      <outline title="NDTV News  - Top-stories" text="NDTV News  - Top-stories" description="NDTV News  - Top-stories" type="rss" xmlUrl="http://feeds.feedburner.com/ndtvnews-top-stories" htmlUrl="https://www.ndtv.com/"/>
+      <outline title="India Today | Top Stories" text="India Today | Top Stories" description="India Today | Top Stories" type="rss" xmlUrl="https://www.indiatoday.in/rss/1206584" htmlUrl=" http://indiatoday.intoday.in/?utm_source=rss"/>
+      <outline title="Front Page &#x2013; The Indian Express" text="Front Page &#x2013; The Indian Express" description="Front Page &#x2013; The Indian Express" type="rss" xmlUrl="https://indianexpress.com/print/front-page/feed/" htmlUrl="https://indianexpress.com"/>
+      <outline title="The Hindu - Home" text="The Hindu - Home" description="The Hindu - Home" type="rss" xmlUrl="http://www.thehindu.com/feeder/default.rss" htmlUrl="http://www.thehindu.com/"/>
+    </outline>
+  </body>
+</opml>  
